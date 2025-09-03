@@ -179,7 +179,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
+## Proteus layout
  <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8ad23800-df06-45f8-a539-9363c49c680e" />
 
  
